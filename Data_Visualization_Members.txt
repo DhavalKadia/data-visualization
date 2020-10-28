@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 ---------------------------------
 Examination No.     Name
 ---------------------------------
 704016              Dhaval Kadia
 704017              Mayur Loriya
 704030              Manmeet Patel
+=======
+---------------------------------
+Examination No.     Name
+---------------------------------
+704016              Dhaval Kadia
+704017              Mayur Loriya
+704030              Manmeet Patel
+>>>>>>> 9fe402ac798ef393c9b39749c089c6f74b01984d
 ---------------------------------
